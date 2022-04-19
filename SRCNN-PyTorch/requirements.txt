@@ -1,9 +1,0 @@
-Pillow
-tqdm
-opencv-python
-lmdb
-numpy
-torch
-setuptools
-torchvision
-natsort
