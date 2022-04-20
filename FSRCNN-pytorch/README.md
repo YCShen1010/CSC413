@@ -31,14 +31,15 @@ python train.py --train-file "BLAH_BLAH/91-image_x2.h5" \
                 --seed 123                
 ```
 
-### How to run
+
 
 ## Test
 
 - Find the weights file under `BLAH_BLAH/output/x2/best_psnr.pth`
 - Test by applying your own image and to see the result
 
-```bash
+### How to run
+```
 python test.py --weights-file "BLAH_BLAH/output/x2/best_psnr.pth" \
                --image-file "data/your_image.bmp" \
                --scale 2
