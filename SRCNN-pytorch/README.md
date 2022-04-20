@@ -43,3 +43,14 @@ python test.py --weights-file "BLAH_BLAH/output/x2/best_psnr.pth" \
                --image-file "data/your_image.bmp" \
                --scale 2
 ```
+
+## Result
+- Test result by pretained model 
+  - [Original Pictures](https://drive.google.com/drive/u/0/folders/1mimTyZrKfbA_B0CCJBtwZzcoHTPthd20)
+  - [weights file](https://drive.google.com/drive/u/0/folders/1sr6i7SjQ1A17Vf4hbBtCEoKqkAlZZd3Q)
+  - [Image Test Result](https://drive.google.com/drive/u/0/folders/1fTqTTwuPtFRUI6e6kbGjVP_r41MT6ALk)
+- Test result by trained new dataset `urban-100`
+  - [Original Pictures](https://drive.google.com/drive/u/0/folders/1W0pljTc8n9bn6k5sfvWEPWDjRKpVklb9)
+  - [weights file](https://drive.google.com/drive/u/0/folders/1Qyt7QWSvbdNVcwklCKCgM0JFth2gQucy)
+  - [Image Test Result](https://drive.google.com/drive/u/0/folders/1eQmMjqfaPDPURq4GOvYud2PuQMBzddwG)
+
