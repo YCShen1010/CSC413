@@ -31,8 +31,6 @@ python train.py --train-file "BLAH_BLAH/91-image_x2.h5" \
                 --seed 123                
 ```
 
-
-
 ## Test
 
 - Find the weights file under `BLAH_BLAH/output/x2/best_psnr.pth`
@@ -44,3 +42,9 @@ python test.py --weights-file "BLAH_BLAH/output/x2/best_psnr.pth" \
                --image-file "data/your_image.bmp" \
                --scale 2
 ```
+## Result
+- Test result by pretained model 
+  - [Original Pictures](https://drive.google.com/drive/u/0/folders/1w9dIofvtLjM30Tybqc8dnVLqTJvy3fFf)
+  - [weights file](https://drive.google.com/drive/u/0/folders/1o40bcY1UwXk0NPJYc7V_sFLVO95-yvdx)
+  - [Image Test Result](https://drive.google.com/drive/u/0/folders/1eFkXevQflsWvgxFIQ3qLqUl-F6XKQgaY)
+
